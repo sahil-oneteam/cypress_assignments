@@ -1,0 +1,23 @@
+{
+    "backpack"   : "Sauce Labs Backpack",
+    "backpack$"  : "$29.99",
+    "bikelight"  : "Sauce Labs Bike Light",
+    "bikelight$" : "$9.99",
+    "boltTshirt" : "Sauce Labs Bolt T-Shirt",
+    "boltTshirt$": "$15.99",
+    "fleeceJacket": "Sauce Labs Fleece Jacket", 
+    "fleeceJacket$": "$49.99",
+    "oneSize": "Sauce Labs Onesie",
+    "oneSize$": "$7.99",
+    "redTshirt": "Test.allTheThings() T-Shirt (Red)",
+    "redTshirt$" : "$15.99",
+
+    "errorFirstName": "Error: First Name is required",
+    "errorLastName": "Error: Last Name is required",
+    "errorPostalCode": "Error: Postal Code is required",
+
+    "highestItemPrice": "$49.99",
+
+    "minRange": "1000",
+    "maxRange": "2000"
+}

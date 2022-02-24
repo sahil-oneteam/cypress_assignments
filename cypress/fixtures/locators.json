@@ -1,0 +1,34 @@
+{
+ "backpack": "#add-to-cart-sauce-labs-backpack",
+ "bikelight": "#add-to-cart-sauce-labs-bike-light",
+ "boltTshirt": "#add-to-cart-sauce-labs-bolt-t-shirt",
+ "fleeceJacket": "#add-to-cart-sauce-labs-fleece-jacket",
+ "oneSize": "#add-to-cart-sauce-labs-onesie",
+ "redTshirt": "#add-to-cart-test.allthethings()-t-shirt-(red)",
+
+ "itemName": ".inventory_item_name",
+ "itemPrice": ".inventory_item_price",
+ "sortContainer": ".product_sort_container",
+ "lowToHigh": "Price (low to high)",
+ "highToLow": "Price (high to low)",
+
+ "highestPriceItem": ":nth-child(1) > .inventory_item_description > .pricebar > .inventory_item_price",
+
+ "finish": "#finish",
+ "cancel": "#cancel",
+
+ "inventoryList": ".inventory_list",
+ "inventoryItem": ".inventory_item",
+
+ "removeOneSize": "#remove-sauce-labs-onesie",
+ "emptyCart": ".cart_list > .removed_cart_item",
+
+ "electronics": "Electronics",
+ "laptopAccesories": "Laptop Accessories",
+ "laptopKeyboards": "Laptop Keyboards",
+ "minRange": "._1YAKP4 > ._2YxCDZ",
+ "maxRange": "._3uDYxP > ._2YxCDZ",
+ "sortHighToLow": "Price -- High to Low",
+ "highestProductName": "[data-id='ACCFPWSZXVZ4GWAX'] > ._4ddWXP > .s1Q9rs",
+ "highestProductPrice": "[data-id='ACCFPWSZXVZ4GWAX'] > ._4ddWXP > ._8VNy32 > ._25b18c > ._30jeq3"
+}
